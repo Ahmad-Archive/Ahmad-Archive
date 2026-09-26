@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Archive" alt="Ahmad-Archive" /></a> </p>
 
-- 🔭 I'm currently working on **Student**
+- 🔭 What i'm busy with right now is **College**
 
 - 🌱 I'm currently learning **Web Development & Animation Javascript**
 

@@ -32,14 +32,14 @@
 <h3 align="left">🎧 Favorite Song Right Now:</h3>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH](https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh?si=6878b500c7784fac" target="_blank">
+  <a href="https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh" target="_blank">
     <img src="Olivia.jpeg" width="180" height="180" alt="What's wrong with me" style="border-radius: 10px;" />
   </a>
 </p>
 
 <p align="center">
   <b>What's wrong with me</b> — <i>Olivia Rodrigo</i><br>
-  <a href="https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH](https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh?si=6878b500c7784fac" target="_blank">
+  <a href="https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh" target="_blank">
     <img src="https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
   </a>
 </p>

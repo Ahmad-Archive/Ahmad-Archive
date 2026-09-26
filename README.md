@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ahmad
 
-### A passionate Css developer
+### A passionate Web developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmad-Archive&label=Profile views&color=0e75b6&style=flat" alt="Ahmad-Archive" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on **Student**
 
-- 🌱 I'm currently learning **Typescript**
+- 🌱 I'm currently learning **Web Development & Animation Javascript**
 
 - 👯 I'm looking to collaborate on **open source project**
 

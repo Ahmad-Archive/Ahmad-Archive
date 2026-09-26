@@ -2,10 +2,6 @@
 
 ### A passionate Web developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmad-Archive&label=Profile views&color=0e75b6&style=flat" alt="Ahmad-Archive" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Archive" alt="Ahmad-Archive" /></a> </p>
-
 - 🔭 What i'm busy with right now is **College**
 
 - 🌱 I'm currently learning **Web Development & Animation Javascript**

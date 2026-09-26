@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmad-Archive&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmad-Archive" /> </p>
+
 ### A passionate Web developer
 
 - 🔭 What i'm busy with right now is **College**
@@ -27,9 +29,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
+<h3 align="left">🎧 Favorite Song Right Now:</h3>
 
+<p align="center">
+  <a href="https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH](https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh?si=6878b500c7784fac" target="_blank">
+    <img src="Olivia.jpeg" width="180" height="180" alt="What's wrong with me" style="border-radius: 10px;" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Archive&show_icons=true&locale=en" alt="Ahmad-Archive" /></p>
+<p align="center">
+  <b>What's wrong with me</b> — <i>Olivia Rodrigo</i><br>
+  <a href="https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH](https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh?si=6878b500c7784fac" target="_blank">
+    <img src="https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Archive&" alt="Ahmad-Archive" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Archive&" alt="Ahmad-Archive" /></p>
 
